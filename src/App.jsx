@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App; // ✅ this is required
+export default App;
